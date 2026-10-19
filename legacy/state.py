@@ -1,0 +1,5 @@
+
+
+AMPLITUDE = 1.0
+FREQ = 440
+SR = 44100
